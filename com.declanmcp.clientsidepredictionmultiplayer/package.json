@@ -1,0 +1,10 @@
+{
+  "name": "com.declanmcp.clientsidepredictionmultiplayer",
+  "displayName": "Client Side Prediction Multiplayer",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Used alongside Netcode for Gameobjects to create a realistic experience of physics on multiplayer controlled game objects",
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "1.0.0-pre.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Client-side Prediction Multiplayer",
+    "rootNamespace": "Declanmcp.ClientsidePredictionMultiplayer",
+    "references": [
+        "Unity.Netcode",
+        "Unity.Netcode.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
